@@ -1,0 +1,17 @@
+"variety","row","column","yield"
+"C","North","West",30.6
+"D","North","WC",26.9
+"A","North","EC",36
+"B","North","East",33.8
+"B","NC","West",31.4
+"C","NC","WC",25.1
+"D","NC","EC",28
+"A","NC","East",30.3
+"A","SC","West",30.4
+"B","SC","WC",34.3
+"C","SC","EC",25.3
+"D","SC","East",28.7
+"D","South","West",31.1
+"A","South","WC",33.3
+"B","South","EC",34.2
+"C","South","East",26.3
